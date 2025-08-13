@@ -1,2 +1,2 @@
-Ejecución en navegador
+Ejecución en navegador:
 ionic serve
