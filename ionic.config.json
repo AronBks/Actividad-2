@@ -1,0 +1,7 @@
+{
+  "name": "visor-perfiles",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
